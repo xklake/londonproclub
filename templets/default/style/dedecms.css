@@ -43,9 +43,11 @@ input,select,button{
 	margin:0px auto;
 }
 .w960{
-	width:960px;
+	width:1200px;
+    background-color: #0d213a;
 	/*position:relative;*/
 }
+
 .pright .infos_userinfo {
 	margin-bottom: 0px;
 }
@@ -117,7 +119,7 @@ input,select,button{
 /*---------- frame : header ---------*/
 .header{
 	width:100%;
-	width:960px;
+	width:1200px;
 	margin:auto;
 	overflow:hidden;
 }
@@ -153,9 +155,30 @@ input,select,button{
 .header .search {
 	overflow:hidden;
 }
+
+.chinese{
+    background:url(../images/chinese.png) no-repeat;
+    cursor:pointer;
+    overflow:hidden;
+    padding-left: 50px;
+}
+.enlish{
+    background:url(../images/enlish.png) no-repeat;
+    cursor:pointer;
+    overflow:hidden;
+    padding-left: 50px;
+}
+
+
 .header a{
 	color:#777;
 }
+
+.h120
+{
+    height: 120px;
+}
+
 .header a:hover{
 	color:#ff3333;
 	text-decoration:none;
@@ -163,15 +186,58 @@ input,select,button{
 .header .top{
 	clear:both;
 	overflow:hidden;
-	margin-top:10px;
+	margin-top:0px;
 }
 .header .title{
 	float:left;
-	padding-left:10px;
+	padding-left:40px;
+    padding-top: 30px;
+    width:400px;
 
 }
+
+.header .lang
+{
+    width:400px;
+    float:right;
+    padding-right:2px;
+    padding-top:20px;
+}
+
+.header .lang ul
+{
+    padding: 0px;
+    padding-right: 10px;
+    margin: 0px;
+}
+
+.header .lang ul li
+{
+    padding: 0px;
+    padding-left: 42px;
+    margin: 0px;
+    float: right;
+    height: 40px;
+    vertical-align: middle;
+    width:50px;
+}
+
+.header .lang ul a
+{
+    color:#ffffff;
+    line-height:40px;
+    display:inline;
+}
+
+.header .lang ul li img
+{
+    width:40px;
+    padding: 0px;
+    margin: 0px;
+}
+
 .header .title h1 a{
-	width:216px;
+	width:400px;
 	height:54px;
 	display:block;
 	overflow:hidden;
@@ -287,6 +353,52 @@ input,select,button{
 	height: 28px;
 	padding:8px 0 0 15px;
 }
+
+.mainmenu
+{
+    width:1150px;
+    background-color:#d2cece;
+    margin: 0px auto;
+    height: 50px;
+    vertical-align: middle;
+}
+
+.mainmenu ul
+{
+    float:left;
+    height: 50px;
+    font-size: 25px;
+    padding-left:100px;
+}
+
+.mainmenu ul li {
+    float:left;
+    height: 50px;
+    padding:0px 0px 0px 20px;
+}
+
+
+
+.mainmenu ul li a {
+    color: #000000;
+    height: 50px;
+    text-decoration:none;
+    display: inline-block;
+    position: relative;
+    width:100%;
+    line-height: 50px;
+}
+
+.mainmenu ul li a.hover {
+    color: #ffffff;
+    height: 50px;
+    text-decoration:none;
+    display: inline-block;
+    position: relative;
+    width:100%;
+}
+
+
 #navMenu ul {
 	float:left;
 	height: 22px;
@@ -580,10 +692,13 @@ input,select,button{
   background:url(../images/green_skin.png) 0 -222px no-repeat;
   left: 0;
 }
+
 /*----------dedeinfolink  ---------*/
 #dedeinfolink {
 	margin-bottom:6px;
 	}
+
+
 #dedeinfolink tr td div {
 	padding:0 5px;
 	background:url(../images/white_bg.gif) repeat-x;
