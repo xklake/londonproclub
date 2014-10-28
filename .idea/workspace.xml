@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb061e99-4e1d-4ef5-b132-6fcfafce8518" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.cache.inc.php" afterPath="$PROJECT_DIR$/data/config.cache.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/style/dedecms.css" afterPath="$PROJECT_DIR$/templets/default/style/dedecms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc" afterPath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/footer.htm" afterPath="$PROJECT_DIR$/templets/default/footer.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc" afterPath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/head.htm" afterPath="$PROJECT_DIR$/templets/default/head.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc" afterPath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/index.htm" afterPath="$PROJECT_DIR$/templets/default/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/index.html" afterPath="$PROJECT_DIR$/a/ch/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/contact/index.html" afterPath="$PROJECT_DIR$/a/ch/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/infoforbuys/index.html" afterPath="$PROJECT_DIR$/a/ch/infoforbuys/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/news/index.html" afterPath="$PROJECT_DIR$/a/ch/news/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/propertyshow/index.html" afterPath="$PROJECT_DIR$/a/ch/propertyshow/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/index.html" afterPath="$PROJECT_DIR$/a/en/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/contact/index.html" afterPath="$PROJECT_DIR$/a/en/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/infobuyers/index.html" afterPath="$PROJECT_DIR$/a/en/infobuyers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/news/index.html" afterPath="$PROJECT_DIR$/a/en/news/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/properties/index.html" afterPath="$PROJECT_DIR$/a/en/properties/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/contact/list_10_1.html" afterPath="$PROJECT_DIR$/a/ch/contact/list_10_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/list_1_1.html" afterPath="$PROJECT_DIR$/a/en/list_1_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/list_2_1.html" afterPath="$PROJECT_DIR$/a/ch/list_2_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/properties/list_3_1.html" afterPath="$PROJECT_DIR$/a/en/properties/list_3_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/infobuyers/list_4_1.html" afterPath="$PROJECT_DIR$/a/en/infobuyers/list_4_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/news/list_5_1.html" afterPath="$PROJECT_DIR$/a/en/news/list_5_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/en/contact/list_6_1.html" afterPath="$PROJECT_DIR$/a/en/contact/list_6_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/propertyshow/list_7_1.html" afterPath="$PROJECT_DIR$/a/ch/propertyshow/list_7_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/infoforbuys/list_8_1.html" afterPath="$PROJECT_DIR$/a/ch/infoforbuys/list_8_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a/ch/news/list_9_1.html" afterPath="$PROJECT_DIR$/a/ch/news/list_9_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cb061e99-4e1d-4ef5-b132-6fcfafce8518" name="Default" comment="" />
     <ignored path="londonpropertyclub.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -293,7 +260,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
