@@ -1,0 +1,25 @@
+<div class="header">
+	<div class="top w960 center h120">
+      <div class="title">
+        <a href="{dede:global.cfg_basehost/}"><img src="{dede:global.cfg_templets_skin/}/images/logo.png"  width="300" alt="{dede:global.cfg_webname/}"/></a>
+      </div>
+
+      <div class="lang">
+          <ul>
+              <li class="chinese"><a href="{dede:global.cfg_cmsurl/}/ch/">中文</a></li>
+              <li class="enlish"><a href="{dede:global.cfg_cmsurl/}/en/">Enlish</a></li>
+          </ul>
+      </div>
+	</div>
+
+    <div class="w960 center">
+        <div class="mainmenu">
+            <ul>
+                <li ><a href='{dede:global.cfg_cmsurl/}/ch/'>首页</a></li>
+                {dede:sql sql='Select * from dede_arctype where reid=2  ORDER BY id limit 00,20'}
+                <li><a href="[field:typedir function='str_replace("{cmspath}","",@me)'/]"  class="depth_3">[field:typename/]</a></li>
+                {/dede:sql}
+            </ul>
+        </div>
+    </div>
+</div><!-- //header -->

@@ -1,15 +1,17 @@
 <?php
-$z[0]=Array("global","",107,134);
+$z[0]=Array("global","",103,130);
 $z[0][4]['name']="cfg_basehost";
-$z[1]=Array("global","",146,178);
+$z[1]=Array("global","",142,174);
 $z[1][4]['name']="cfg_templets_skin";
-$z[2]=Array("global","",225,251);
+$z[2]=Array("global","",210,236);
 $z[2][4]['name']="cfg_webname";
-$z[3]=Array("global","",601,626);
+$z[3]=Array("global","",346,371);
 $z[3][4]['name']="cfg_cmsurl";
-$z[4]=Array("channel","\r\n                <li><a href='[field:typelink/]' target=\"_blank\">[field:typename/]</a> </li>\r\n                ",662,900);
-$z[4][4]['type']="top";
-$z[4][4]['row']="8";
-$z[4][4]['currentstyle']="<li class='thisclass'><a href='~typelink~'>~typename~</a> </li>";
+$z[4]=Array("global","",436,461);
+$z[4][4]['name']="cfg_cmsurl";
+$z[5]=Array("global","",637,662);
+$z[5][4]['name']="cfg_cmsurl";
+$z[6]=Array("sql","\r\n                <li><a href=\"[field:typedir function='str_replace(\"{cmspath}\",\"\",@me)'/]\"  class=\"depth_3\">[field:typename/]</a></li>\r\n                ",699,944);
+$z[6][4]['sql']="Select * from dede_arctype where reid=1 ORDER BY id limit 00,20";
 
 ?>
