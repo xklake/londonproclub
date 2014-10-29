@@ -1,7 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb061e99-4e1d-4ef5-b132-6fcfafce8518" name="Default" comment="" />
+    <list default="true" id="cb061e99-4e1d-4ef5-b132-6fcfafce8518" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templets/default/list_article_ch.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templets/default/list_shop_ch.htm" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\londonpropertyclub\data\sessions\sess_6gd5d1fdr78vbbh12dfrvhuge2" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\londonpropertyclub\data\sessions\sess_rjehcsk4ert3jvotviddqn3io7" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\londonpropertyclub\londonpropertyclub (2)\html\assets\67f721126066831588299b77127b9ebf.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/images/slides/property1.png" afterPath="$PROJECT_DIR$/templets/default/images/slides/property1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/images/slides/property2.png" afterPath="$PROJECT_DIR$/templets/default/images/slides/property2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/article_article.htm" afterPath="$PROJECT_DIR$/templets/default/article_article.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/article_default.htm" afterPath="$PROJECT_DIR$/templets/default/article_default.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/style/dedecms.css" afterPath="$PROJECT_DIR$/templets/default/style/dedecms.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc" afterPath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/footer.htm" afterPath="$PROJECT_DIR$/templets/default/footer.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer_ch.htm3070fb324285e9f4.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/footer_ch.htm3070fb324285e9f4.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/footer_ch.htm" afterPath="$PROJECT_DIR$/templets/default/footer_ch.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/head_ch.htm" afterPath="$PROJECT_DIR$/templets/default/head_ch.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc" afterPath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc" afterPath="$PROJECT_DIR$/data/tplcache/index.htm9d4cd9c49d250d4e.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/index.htm" afterPath="$PROJECT_DIR$/templets/default/index.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/index.html" afterPath="$PROJECT_DIR$/ch/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/contact/index.html" afterPath="$PROJECT_DIR$/ch/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/infoforbuys/index.html" afterPath="$PROJECT_DIR$/ch/infoforbuys/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/news/index.html" afterPath="$PROJECT_DIR$/ch/news/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/propertyshow/index.html" afterPath="$PROJECT_DIR$/ch/propertyshow/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/index.html" afterPath="$PROJECT_DIR$/en/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/contact/index.html" afterPath="$PROJECT_DIR$/en/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/infobuyers/index.html" afterPath="$PROJECT_DIR$/en/infobuyers/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/news/index.html" afterPath="$PROJECT_DIR$/en/news/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/properties/index.html" afterPath="$PROJECT_DIR$/en/properties/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/index_ch.htm367e2a82f5e4c6e9.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/index_ch.htm367e2a82f5e4c6e9.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/index_ch.htm367e2a82f5e4c6e9.inc" afterPath="$PROJECT_DIR$/data/tplcache/index_ch.htm367e2a82f5e4c6e9.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/index_ch.htm" afterPath="$PROJECT_DIR$/templets/default/index_ch.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/contact/list_10_1.html" afterPath="$PROJECT_DIR$/ch/contact/list_10_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/list_1_1.html" afterPath="$PROJECT_DIR$/en/list_1_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/list_2_1.html" afterPath="$PROJECT_DIR$/ch/list_2_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/properties/list_3_1.html" afterPath="$PROJECT_DIR$/en/properties/list_3_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/infobuyers/list_4_1.html" afterPath="$PROJECT_DIR$/en/infobuyers/list_4_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/news/list_5_1.html" afterPath="$PROJECT_DIR$/en/news/list_5_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/contact/list_6_1.html" afterPath="$PROJECT_DIR$/en/contact/list_6_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/propertyshow/list_7_1.html" afterPath="$PROJECT_DIR$/ch/propertyshow/list_7_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/infoforbuys/list_8_1.html" afterPath="$PROJECT_DIR$/ch/infoforbuys/list_8_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/news/list_9_1.html" afterPath="$PROJECT_DIR$/ch/news/list_9_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_article.htm13b0386809e77ce9.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/list_article.htm13b0386809e77ce9.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_article.htm13b0386809e77ce9.inc" afterPath="$PROJECT_DIR$/data/tplcache/list_article.htm13b0386809e77ce9.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/list_article.htm" afterPath="$PROJECT_DIR$/templets/default/list_article.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_shop.htm82e9e53891564b7e.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/list_shop.htm82e9e53891564b7e.inc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_shop.htm82e9e53891564b7e.inc" afterPath="$PROJECT_DIR$/data/tplcache/list_shop.htm82e9e53891564b7e.inc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/list_shop.htm" afterPath="$PROJECT_DIR$/templets/default/list_shop.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/mytag-2.htm" afterPath="$PROJECT_DIR$/data/cache/mytag-2.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/mytag-3.htm" afterPath="$PROJECT_DIR$/data/cache/mytag-3.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="londonpropertyclub.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,93 +77,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/style/layout.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="163" column="23" selection-start="3032" selection-end="3032" vertical-scroll-proportion="0.0" vertical-offset="3425" max-vertical-offset="17089">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dedecms.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="dedecms.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templets/default/style/dedecms.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="867" column="12" selection-start="14244" selection-end="14244" vertical-scroll-proportion="-16.56" vertical-offset="19527" max-vertical-offset="20424">
+            <state line="1062" column="11" selection-start="16595" selection-end="16595" vertical-scroll-proportion="0.52603036" vertical-offset="23941" max-vertical-offset="24863">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_ch.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/index_ch.htm">
+      <file leaf-file-name="article_article.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templets/default/article_article.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="77" selection-start="2716" selection-end="2722" vertical-scroll-proportion="-15.09375" vertical-offset="1311" max-vertical-offset="2254">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer_ch.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/footer_ch.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="414">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head_ch.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/head_ch.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="88" selection-start="469" selection-end="469" vertical-scroll-proportion="-6.46875" vertical-offset="0" max-vertical-offset="713">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head2.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/head2.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1334">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/style/page.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="14" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="32131">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.htm" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templets/default/head.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="77" selection-start="733" selection-end="738" vertical-scroll-proportion="0.46516854" vertical-offset="0" max-vertical-offset="890">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/footer.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.3125" vertical-offset="0" max-vertical-offset="414">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templets/default/index.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="14" selection-start="2747" selection-end="2747" vertical-scroll-proportion="-24.21875" vertical-offset="1088" max-vertical-offset="2254">
+            <state line="35" column="52" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-10.5625" vertical-offset="467" max-vertical-offset="1357">
               <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_article.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templets/default/list_article.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="42" selection-start="1296" selection-end="1372" vertical-scroll-proportion="-17.34375" vertical-offset="20" max-vertical-offset="1173">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_article_ch.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templets/default/list_article_ch.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="34" selection-start="674" selection-end="674" vertical-scroll-proportion="-7.1875" vertical-offset="0" max-vertical-offset="1173">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_default.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templets/default/list_default.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="156" selection-start="1283" selection-end="1357" vertical-scroll-proportion="-10.0625" vertical-offset="345" max-vertical-offset="2139">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_shop.htm" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templets/default/list_shop.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="36" selection-start="1168" selection-end="1168" vertical-scroll-proportion="-9.34375" vertical-offset="276" max-vertical-offset="1472">
+              <folding>
+                <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,12 +149,19 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/templets/default/style/layout.css" />
+        <option value="$PROJECT_DIR$/templets/default/head.htm" />
+        <option value="$PROJECT_DIR$/templets/default/head_ch.htm" />
+        <option value="$PROJECT_DIR$/templets/default/footer_ch.htm" />
         <option value="$PROJECT_DIR$/templets/default/footer.htm" />
         <option value="$PROJECT_DIR$/templets/default/index.htm" />
-        <option value="$PROJECT_DIR$/templets/default/style/dedecms.css" />
         <option value="$PROJECT_DIR$/templets/default/index_ch.htm" />
-        <option value="$PROJECT_DIR$/templets/default/head_ch.htm" />
-        <option value="$PROJECT_DIR$/templets/default/head.htm" />
+        <option value="$PROJECT_DIR$/templets/default/list_shop_ch.htm" />
+        <option value="$PROJECT_DIR$/templets/default/list_shop.htm" />
+        <option value="$PROJECT_DIR$/templets/default/list_article_ch.htm" />
+        <option value="$PROJECT_DIR$/templets/default/list_article.htm" />
+        <option value="$PROJECT_DIR$/templets/default/article_default.htm" />
+        <option value="$PROJECT_DIR$/templets/default/article_article.htm" />
+        <option value="$PROJECT_DIR$/templets/default/style/dedecms.css" />
       </list>
     </option>
   </component>
@@ -222,6 +249,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="londonpropertyclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="londonpropertyclub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -233,6 +282,11 @@
     <property name="options.searchVisible" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\londonpropertyclub\templets\default" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -268,7 +322,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13854167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18385416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -300,6 +354,148 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templets/default/style/dedecms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="926" column="29" selection-start="15112" selection-end="15112" vertical-scroll-proportion="0.0" vertical-offset="20859" max-vertical-offset="21827">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/index_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="83" selection-start="2323" selection-end="2323" vertical-scroll-proportion="0.0" vertical-offset="1035" max-vertical-offset="2507">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/list_shop.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="44" selection-start="1100" selection-end="1112" vertical-scroll-proportion="0.0" vertical-offset="552" max-vertical-offset="1380">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/footer_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/head_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="47" selection-start="130" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="69" max-vertical-offset="713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/head2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/style/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="32131">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="55" selection-start="344" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="83" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="2484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/style/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="163" column="23" selection-start="3032" selection-end="3032" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17089">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/style/dedecms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="867" column="12" selection-start="14244" selection-end="14244" vertical-scroll-proportion="0.0" vertical-offset="19527" max-vertical-offset="20424">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/index_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="78" column="77" selection-start="2716" selection-end="2722" vertical-scroll-proportion="0.0" vertical-offset="1311" max-vertical-offset="2254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/footer_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/head_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="88" selection-start="469" selection-end="469" vertical-scroll-proportion="0.0" vertical-offset="207" max-vertical-offset="713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/head2.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/style/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="14" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="184" max-vertical-offset="32131">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/head.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="77" selection-start="733" selection-end="738" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="713">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="14" selection-start="2747" selection-end="2747" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="2254">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templets/default/style/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="163" column="23" selection-start="3032" selection-end="3032" vertical-scroll-proportion="0.0" vertical-offset="3425" max-vertical-offset="17089">
@@ -331,38 +527,13 @@
     <entry file="file://$PROJECT_DIR$/templets/default/index.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="0" selection-start="1650" selection-end="1650" vertical-scroll-proportion="0.0" vertical-offset="191" max-vertical-offset="1104">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templets/default/style/picture.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="922" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templets/default/style/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="14" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32131">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templets/default/footer.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="164" selection-end="164" vertical-scroll-proportion="-4.3125" vertical-offset="0" max-vertical-offset="414">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templets/default/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="14" selection-start="2747" selection-end="2747" vertical-scroll-proportion="-24.21875" vertical-offset="1088" max-vertical-offset="2254">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templets/default/style/layout.css">
@@ -372,9 +543,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templets/default/style/dedecms.css">
+    <entry file="file://$PROJECT_DIR$/templets/default/style/page.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="867" column="12" selection-start="14244" selection-end="14244" vertical-scroll-proportion="-16.56" vertical-offset="19527" max-vertical-offset="20424">
+        <state line="8" column="14" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="32131">
           <folding />
         </state>
       </provider>
@@ -386,30 +557,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templets/default/index_ch.htm">
+    <entry file="file://$PROJECT_DIR$/templets/default/list_shop_ch.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="77" selection-start="2716" selection-end="2722" vertical-scroll-proportion="-15.09375" vertical-offset="1311" max-vertical-offset="2254">
+        <state line="11" column="31" selection-start="669" selection-end="676" vertical-scroll-proportion="0.28426966" vertical-offset="0" max-vertical-offset="1472">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templets/default/footer_ch.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="922">
+        <state line="2" column="30" selection-start="47" selection-end="47" vertical-scroll-proportion="0.051685393" vertical-offset="0" max-vertical-offset="890">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templets/default/head_ch.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="88" selection-start="469" selection-end="469" vertical-scroll-proportion="-6.46875" vertical-offset="0" max-vertical-offset="713">
+        <state line="17" column="32" selection-start="621" selection-end="621" vertical-scroll-proportion="0.43932584" vertical-offset="0" max-vertical-offset="890">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templets/default/head.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="77" selection-start="733" selection-end="738" vertical-scroll-proportion="0.46516854" vertical-offset="0" max-vertical-offset="890">
+        <state line="8" column="55" selection-start="344" selection-end="350" vertical-scroll-proportion="0.20674157" vertical-offset="0" max-vertical-offset="890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/index_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="70" selection-start="986" selection-end="986" vertical-scroll-proportion="0.33595505" vertical-offset="0" max-vertical-offset="2507">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="8" selection-start="129" selection-end="129" vertical-scroll-proportion="0.15505618" vertical-offset="0" max-vertical-offset="890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="492" selection-end="492" vertical-scroll-proportion="-0.6280899" vertical-offset="720" max-vertical-offset="2507">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/list_shop.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="36" selection-start="1168" selection-end="1168" vertical-scroll-proportion="-9.34375" vertical-offset="276" max-vertical-offset="1472">
+          <folding>
+            <element signature="n#style#0;n#div#2;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/list_default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="156" selection-start="1283" selection-end="1357" vertical-scroll-proportion="-10.0625" vertical-offset="345" max-vertical-offset="2139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/article_default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="0.31470925" vertical-offset="0" max-vertical-offset="3749">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/list_article_ch.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="34" selection-start="674" selection-end="674" vertical-scroll-proportion="-7.1875" vertical-offset="0" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/list_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="42" selection-start="1296" selection-end="1372" vertical-scroll-proportion="-17.34375" vertical-offset="20" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/article_article.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="52" selection-start="1349" selection-end="1349" vertical-scroll-proportion="-10.5625" vertical-offset="467" max-vertical-offset="1357">
+          <folding>
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templets/default/style/dedecms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1062" column="11" selection-start="16595" selection-end="16595" vertical-scroll-proportion="0.52603036" vertical-offset="23941" max-vertical-offset="24863">
           <folding />
         </state>
       </provider>

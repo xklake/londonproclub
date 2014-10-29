@@ -47,11 +47,12 @@
         line-height: 40px;
         padding: 20px;
     }
+
     .fluid_container {
         margin: 0 auto;
         max-width: 1121px;
-        height:381px;
-        border: ;
+        height:401px;
+        border: 1px solid #ffffff;
     }
 </style>
 
@@ -66,9 +67,17 @@
 <div class="w960 center clear insertline">
     <div id="imageslider" class="fluid_container">
         <div class="camera_wrap " id="camera_wrap_1">
-            <div data-thumb="{dede:global.cfg_templets_skin/}/images/slides/thumbs/leaf.jpg" data-src="{dede:global.cfg_templets_skin/}/images/slides/property1.png">
+            <div data-src="{dede:global.cfg_templets_skin/}/images/slides/palace.png">
             </div>
-            <div data-thumb="{dede:global.cfg_templets_skin/}/images/slides/thumbs/road.jpg" data-src="{dede:global.cfg_templets_skin/}/images/slides/property2.png">
+            <div data-src="{dede:global.cfg_templets_skin/}/images/slides/property1.png">
+            </div>
+            <div data-src="{dede:global.cfg_templets_skin/}/images/slides/property2.png">
+            </div>
+            <div data-src="{dede:global.cfg_templets_skin/}/images/slides/property3.png">
+            </div>
+            <div data-src="{dede:global.cfg_templets_skin/}/images/slides/property4.png">
+            </div>
+            <div data-src="{dede:global.cfg_templets_skin/}/images/slides/property5.png">
             </div>
         </div><!-- #camera_wrap_1 -->
     </div><!-- .fluid_container -->
@@ -76,14 +85,16 @@
     <div style="clear:both;"></div>
 
     <div class="indexleft" >
-        <script src='/plus/mytag_js.php?aid=3' language='javascript'></script>
+        <div style="width:650px;height:1px; background:#ffffff;margin-bottom: 10px;"></div>
+        {dede:mytag name="companyintro-en"/}
     </div>
 
     <div class="indexright" >
-
-
+        <div style="width:420px;height:1px; background:#ffffff;margin-bottom: 10px;"></div>
+        <ul>
+            {dede:mytag name="homeservice_en"/}
+        </ul>
     </div>
-
 </div>
 
 {dede:include filename="footer.htm"/}

@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset={dede:global.cfg_soft_lang/}" />
+<title>{dede:field.title/}_{dede:global.cfg_webname/}</title>
+<meta name="keywords" content="{dede:field name='keywords'/}" />
+<meta name="description" content="{dede:field name='description' function='html2text(@me)'/}" />
+<link href="{dede:global.cfg_templets_skin/}/style/dedecms.css" rel="stylesheet" media="screen" type="text/css" />
+</head>
+<body class="articlelist">
+{dede:include filename="head.htm"/}
+<!-- /header -->
+<div class="w960 center clear">
+
+    <div class="newslist">
+       <ul>
+        {dede:list pagesize='10'}
+        <li>
+         <div class="newsleft">[field:array runphp='yes']@me = (empty(@me['litpic']) ? "" : "<a href='{@me['arcurl']}' class='preview'><img src='{@me['litpic']}'/></a>"); [/field:array]</div>
+         <div class="newsright">
+             <p><a href="[field:arcurl/]"><strong>[field:title/]</strong></a></p>
+             <p><span class="info"> <small>Date：[field:pubdate function="GetDateTimeMK(@me)"/]</small></span></p>
+             <p> [field:description/]... </p>
+         </div>
+
+        <div style="width:100%;clear:both;height:0px;color: #ffffff"></div>
+
+        </li>
+        {/dede:list}
+       </ul>
+    </div>
+  <!-- /listbox -->
+  <!--div class="dede_pages">
+   <ul class="pagelist">
+    {dede:pagelist listitem="info,index,end,pre,next,pageno,option" listsize="5"/}
+   </ul>
+  </div-->
+  <!-- /pages -->
+ </div>
+
+
+{dede:include filename="footer.htm"/}
+<!-- /footer -->
+</body>
+</html>

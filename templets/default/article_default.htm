@@ -6,104 +6,10 @@
 <meta name="keywords" content="{dede:field.keywords/}" />
 <meta name="description" content="{dede:field.description function='html2text(@me)'/}" />
 <link href="{dede:global.cfg_templets_skin/}/style/dedecms.css" rel="stylesheet" media="screen" type="text/css" />
-<script language="javascript" type="text/javascript" src="{dede:global.cfg_cmsurl/}/include/dedeajax2.js"></script>
-<script language="javascript" type="text/javascript">
-<!--
-function CheckLogin()
-{
-	  var taget_obj = document.getElementById('_ajax_feedback');
-	  myajax = new DedeAjax(taget_obj,false,false,'','','');
-	  myajax.SendGet2("{dede:global.cfg_cmsurl/}/member/ajax_feedback.php");
-	  DedeXHTTP = null;
-}
-
-function postBadGood(ftype,fid)
-{
-	var taget_obj = document.getElementById(ftype+fid);
-	var saveid = GetCookie('badgoodid');
-	if(saveid != null)
-	{
-		var saveids = saveid.split(',');
-		var hasid = false;
-		saveid = '';
-		j = 1;
-		for(i=saveids.length-1;i>=0;i--)
-		{
-			if(saveids[i]==fid && hasid) continue;
-			else {
-				if(saveids[i]==fid && !hasid) hasid = true;
-				saveid += (saveid=='' ? saveids[i] : ','+saveids[i]);
-				j++;
-				if(j==10 && hasid) break;
-				if(j==9 && !hasid) break;
-			}
-		}
-		if(hasid) { alert('您刚才已表决过了喔！'); return false;}
-		else saveid += ','+fid;
-		SetCookie('badgoodid',saveid,1);
-	}
-	else
-	{
-		SetCookie('badgoodid',fid,1);
-	}
-	myajax = new DedeAjax(taget_obj,false,false,'','','');
-	myajax.SendGet2("{dede:field name='phpurl'/}/feedback.php?aid="+fid+"&action="+ftype+"&fid="+fid);
-	DedeXHTTP = null;
-}
-function postDigg(ftype,aid)
-{
-	var taget_obj = document.getElementById('newdigg');
-	var saveid = GetCookie('diggid');
-	if(saveid != null)
-	{
-		var saveids = saveid.split(',');
-		var hasid = false;
-		saveid = '';
-		j = 1;
-		for(i=saveids.length-1;i>=0;i--)
-		{
-			if(saveids[i]==aid && hasid) continue;
-			else {
-				if(saveids[i]==aid && !hasid) hasid = true;
-				saveid += (saveid=='' ? saveids[i] : ','+saveids[i]);
-				j++;
-				if(j==20 && hasid) break;
-				if(j==19 && !hasid) break;
-			}
-		}
-		if(hasid) { alert("您已经顶过该帖，请不要重复顶帖 ！"); return; }
-		else saveid += ','+aid;
-		SetCookie('diggid',saveid,1);
-	}
-	else
-	{
-		SetCookie('diggid',aid,1);
-	}
-	myajax = new DedeAjax(taget_obj,false,false,'','','');
-	var url = "{dede:global.cfg_phpurl/}/digg_ajax.php?action="+ftype+"&id="+aid;
-	myajax.SendGet2(url);
-	DedeXHTTP = null;
-}
-function getDigg(aid)
-{
-	var taget_obj = document.getElementById('newdigg');
-	myajax = new DedeAjax(taget_obj,false,false,'','','');
-	myajax.SendGet2("{dede:global.cfg_phpurl/}/digg_ajax.php?id="+aid);
-	DedeXHTTP = null;
-}
--->
-</script>
 </head>
-<body class="articleview">
-{dede:include filename="head.htm2"/}
+<body>
+{dede:include filename="head.htm"/}
 <!-- /header -->
-
-<div class="channel-nav w960 center clear">
-	<div class='sonnav'>
-	{dede:channel type='self' currentstyle="<span><a href='~typelink~' class='thisclass'>~typename~</a></span>"}
-		<span><a href='[field:typeurl/]'>[field:typename/]</a></span>{/dede:channel}
-	</div>
-</div><!-- /channel-nav -->
 
 <div class="w960 center clear mt1">
 	<div class="pleft">
@@ -244,7 +150,6 @@ function getDigg(aid)
 	</div><!-- /pright -->
 	
 </div>
-<div id="innerfooterAD2" style="margin:10px auto; width:726px">{dede:myad name='innerfooterAD2'/}</div>
 {dede:include filename="footer.htm"/}
 <!-- /footer -->
 
