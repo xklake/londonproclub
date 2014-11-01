@@ -1062,14 +1062,198 @@ input,select,button{
 
 .newsdetail
 {
-    width:100%;
+    line-height: 1.5em;
+    width:1106px;
     margin: 0px;
-    padding:20px  50px;
+    padding:40px 50px;
     color: #ffffff;
     font-size: 16px;
 }
 
-.newsdetail title
+.information
 {
     text-align: center;
+    margin-bottom: 5px;
+
+}
+
+.newsdetail .title
+{
+    text-align: center;
+    width:100%;
+}
+
+
+.introduce
+{
+    font-size:0.8em;
+    /*background-color: #4b59ff;*/
+    border: 1px solid #ffffff;
+    padding: 8px;
+}
+
+.newscontent
+{
+    margin: 0px;
+    padding:30px 20px 20px 20px;
+    overflow: hidden;
+}
+.newscontent *
+{
+    margin: 0px;
+    padding:0px;
+    overflow: hidden;
+    font-size: 16px;
+    color: #ffffff;
+}
+
+
+.singlepagecontent
+{
+    margin: 0px;
+    padding:40px 40px 10px 40px;
+    color: #ffffff;
+    font-size:16px;
+    line-height: 1.5em;
+    overflow: hidden;
+}
+
+.singlepageleft
+{
+    margin: 0px;
+    padding: 10px;
+    width:600px;
+    float: left;
+    overflow: hidden;
+}
+
+.singlepageleft img
+{
+    width: 80px;
+}
+
+.singlepageleft span
+{
+    display: block;
+    margin-left: 3px;
+}
+
+.singlepageleft table tr td
+{
+    margin: 0px;
+    padding: 3px;
+
+}
+
+
+.sectionhead
+{
+    margin: 0px;
+    padding: 5px 5px 5px 10px;
+    background-color:#d2cece;
+    color: #000000;
+    height: 20px;
+    line-height: 20px;
+;   margin-bottom: 3px;
+}
+
+.singlepageright
+{
+    margin: 0px;
+    padding: 10px;
+    width:480px;
+    float: right;
+    overflow: hidden;
+}
+
+.singlepageright table tr td
+{
+    margin: 0px;
+    padding: 3px;
+    line-height: 28px;
+
+}
+
+.singlepageright textarea
+{
+    width: 300px;
+    height: 130px;
+    line-height: 28px;
+}
+
+.coolbg
+{
+    width: 150px;
+    line-height: 28px;
+    font-size: 16px;
+}
+
+.intxt
+{
+    height: 22px;
+    width: 300px;
+}
+
+.singlepageoffice
+{
+    clear: both;
+    margin: 0px;
+    margin-bottom: 0px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#officepig
+{
+    float:left;
+    width: 300px;
+}
+
+#officepig img
+{
+    width: 500px;
+}
+
+#officecontact
+{
+    margin: 20px;
+    width: 500px;
+    float: left;
+    overflow: hidden;
+}
+
+
+#googlemap
+{
+    margin: 10px;
+    width: 508px;
+    float: right;
+    border: 4px solid #ffffff;
+    overflow: hidden;
+}
+
+#googlemap iframe
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#officecontact span
+{
+    display: block;
+}
+
+
+.headcontact
+{
+    width: 650px;
+    float: right;
+    color: white;
+    font-size: 16px;
+    margin: 0x;
+    padding-right:38px;
+    padding-top:10px;
+    height: 40px;
+    text-align: right;
+    line-height: 40px;
 }

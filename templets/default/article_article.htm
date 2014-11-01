@@ -16,15 +16,13 @@
    <strong>{dede:field.title/}</strong>
   </div>
   <!-- /title -->
-  <div class="information">
-      <small>Time:{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</small>&nbsp;&nbsp;&nbsp;
-      <small>Source:{dede:field.source/}</small> &nbsp;&nbsp;&nbsp;
-      <small>Author:{dede:field.writer/}</small>
+    <div class="information">
+      <small>Time:{dede:field.pubdate function="MyDate('Y-m-d H:i',@me)"/}</small>
     </div>
   <!-- /info -->
   {dede:field.description runphp='yes'}
   if(@me<>'' )@me = '
-  <div class="introduce">'.@me.'</div>
+  <div class="introduce"><strong>Introduction:</strong>'.@me.'</div>
   ';
   {/dede:field.description}
 
@@ -35,14 +33,14 @@
 
   <div style="width:100%;height:1px;color: #ffffff"></div>
 
-  <div class="handle">
+  <!--div class="handle">
    <div class="context">
     <ul>
      <li>{dede:prenext get='pre'/}</li>
      <li>{dede:prenext get='next'/}</li>
     </ul>
    </div>
-  </div>
+  </div-->
   <!-- /handle -->
  </div>
 </div>
