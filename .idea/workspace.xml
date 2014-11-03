@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb061e99-4e1d-4ef5-b132-6fcfafce8518" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templets/default/article_article_ch.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templets/default/singlepage_ch.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templets/default/temp.html" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\londonpropertyclub\data\sessions\sess_fvgk6mdiit69cua02tk9gech07" afterPath="" />
-      <change type="DELETED" beforePath="C:\xampp\htdocs\londonpropertyclub\data\sessions\sess_k2vrneproj0u6fje6do7dtqna0" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/properties/2014/1029/1.html" afterPath="$PROJECT_DIR$/en/properties/2014/1029/1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/properties/2014/1029/2.html" afterPath="$PROJECT_DIR$/en/properties/2014/1029/2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/news/2014/1030/3.html" afterPath="$PROJECT_DIR$/en/news/2014/1030/3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/news/2014/1030/4.html" afterPath="$PROJECT_DIR$/en/news/2014/1030/4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/article_article.htm98f3e1d855569191.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/article_article.htm98f3e1d855569191.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/article_article.htm98f3e1d855569191.inc" afterPath="$PROJECT_DIR$/data/tplcache/article_article.htm98f3e1d855569191.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/article_article.htm" afterPath="$PROJECT_DIR$/templets/default/article_article.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/changyan/c1/33/67/c13367945d5d4c91047b3b50234aa7ab.php" afterPath="$PROJECT_DIR$/data/cache/changyan/c1/33/67/c13367945d5d4c91047b3b50234aa7ab.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/memberlogin/c4/ca/42/c4ca4238a0b923820dcc509a6f75849b.php" afterPath="$PROJECT_DIR$/data/cache/memberlogin/c4/ca/42/c4ca4238a0b923820dcc509a6f75849b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/listcache/cf/07/bc/cf07bc692ccc4aaf6f95267def4cb40a.php" afterPath="$PROJECT_DIR$/data/cache/listcache/cf/07/bc/cf07bc692ccc4aaf6f95267def4cb40a.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/cache/listcache/db/d6/bf/dbd6bfa1ff586d284d8ab507dcddb65b.php" afterPath="$PROJECT_DIR$/data/cache/listcache/db/d6/bf/dbd6bfa1ff586d284d8ab507dcddb65b.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/style/dedecms.css" afterPath="$PROJECT_DIR$/templets/default/style/dedecms.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc" afterPath="$PROJECT_DIR$/data/tplcache/footer.htm72421ad942c85325.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/footer.htm" afterPath="$PROJECT_DIR$/templets/default/footer.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer_ch.htm3070fb324285e9f4.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/footer_ch.htm3070fb324285e9f4.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/footer_ch.htm3070fb324285e9f4.inc" afterPath="$PROJECT_DIR$/data/tplcache/footer_ch.htm3070fb324285e9f4.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/footer_ch.htm" afterPath="$PROJECT_DIR$/templets/default/footer_ch.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc" afterPath="$PROJECT_DIR$/data/tplcache/head.htm36cdf7faf934fe9b.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/head.htm" afterPath="$PROJECT_DIR$/templets/default/head.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/head_ch.htm" afterPath="$PROJECT_DIR$/templets/default/head_ch.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc" afterPath="$PROJECT_DIR$/data/tplcache/head_ch.htmcd55b4d0e93fdbc3.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/index.html" afterPath="$PROJECT_DIR$/ch/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/contact/index.html" afterPath="$PROJECT_DIR$/ch/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/infoforbuys/index.html" afterPath="$PROJECT_DIR$/ch/infoforbuys/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/news/index.html" afterPath="$PROJECT_DIR$/ch/news/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/propertyshow/index.html" afterPath="$PROJECT_DIR$/ch/propertyshow/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/index.html" afterPath="$PROJECT_DIR$/en/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/contact/index.html" afterPath="$PROJECT_DIR$/en/contact/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/infobuyers/index.html" afterPath="$PROJECT_DIR$/en/infobuyers/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/news/index.html" afterPath="$PROJECT_DIR$/en/news/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/properties/index.html" afterPath="$PROJECT_DIR$/en/properties/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/contact/list_10_1.html" afterPath="$PROJECT_DIR$/ch/contact/list_10_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/list_1_1.html" afterPath="$PROJECT_DIR$/en/list_1_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/list_2_1.html" afterPath="$PROJECT_DIR$/ch/list_2_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/properties/list_3_1.html" afterPath="$PROJECT_DIR$/en/properties/list_3_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/infobuyers/list_4_1.html" afterPath="$PROJECT_DIR$/en/infobuyers/list_4_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/news/list_5_1.html" afterPath="$PROJECT_DIR$/en/news/list_5_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en/contact/list_6_1.html" afterPath="$PROJECT_DIR$/en/contact/list_6_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/propertyshow/list_7_1.html" afterPath="$PROJECT_DIR$/ch/propertyshow/list_7_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/infoforbuys/list_8_1.html" afterPath="$PROJECT_DIR$/ch/infoforbuys/list_8_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch/news/list_9_1.html" afterPath="$PROJECT_DIR$/ch/news/list_9_1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_article.htm13b0386809e77ce9.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/list_article.htm13b0386809e77ce9.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_article_ch.htm17cec2cd9a4ef207.inc.txt" afterPath="$PROJECT_DIR$/data/tplcache/list_article_ch.htm17cec2cd9a4ef207.inc.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/tplcache/list_article_ch.htm17cec2cd9a4ef207.inc" afterPath="$PROJECT_DIR$/data/tplcache/list_article_ch.htm17cec2cd9a4ef207.inc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/list_article_ch.htm" afterPath="$PROJECT_DIR$/templets/default/list_article_ch.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templets/default/singlepage.htm" afterPath="$PROJECT_DIR$/templets/default/singlepage.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cb061e99-4e1d-4ef5-b132-6fcfafce8518" name="Default" comment="" />
     <ignored path="londonpropertyclub.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
